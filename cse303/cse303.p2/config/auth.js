@@ -13,5 +13,5 @@ module.exports = {
     // re-start the app... or you can set this true, start a second instance
     // of the app, create accounts, and then un-set it and stop the second
     // instance.
-    'allowNewUser' : true
+    'allowNewUser' : false
 }
